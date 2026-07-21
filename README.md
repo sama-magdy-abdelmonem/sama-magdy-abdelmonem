@@ -1,22 +1,8 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:312E81&height=120&section=header"/>
-
-<br>
-
-<img src="https://media1.tenor.com/m/Ocj-flp8NAgAAAAC/anya-forger-anime.gif" width="400"/>
-
-<br><br>
-
+<img src="https://media1.tenor.com/m/Ocj-flp8NAgAAAAC/anya-forger-anime.gif" width="300"/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Sama+Magdy;AI+Student+at+Hurghada+University;Exploring+AI+%26+Embedded+Systems;Learning+how+things+work"/>
-
 </div>
-
-
-<br>
-
----
-
 <div align="center">
 
 ## 🌙 About Me
@@ -39,17 +25,8 @@ I enjoy understanding how things work, learning new concepts, and building my fo
 </tr>
 </table>
 
-
-<br>
-
-
-
-
-
 ## 🛠 Tools
-
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=cpp,python,mysql,git,github,vscode"/>
 
 </div>
@@ -73,21 +50,10 @@ I enjoy understanding how things work, learning new concepts, and building my fo
 <a href="https://www.linkedin.com/in/sama-magdy-287aa6346"><img src="https://skillicons.dev/icons?i=linkedin" height="48"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/sama-magdy-abdelmonem"><img src="https://skillicons.dev/icons?i=github" height="48"/></a>
-
 </div>
-
-
-<br><br>
 <div align="center">
-
-<br>
-
 Thank you for visiting 💜
-
-<br>
-
 Learning is a journey that never ends.
-
 </div>
 
 <div align="center">
