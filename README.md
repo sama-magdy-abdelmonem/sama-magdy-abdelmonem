@@ -15,7 +15,7 @@
 
 Hi, I'm **Sama Magdy**.
 
-A Computer Science student exploring the world of **Artificial Intelligence** and **Embedded Systems**.
+An Artificial intellignce student exploring the world of **Artificial Intelligence** and **Embedded Systems**.
 
 I enjoy understanding how things work, learning new concepts, and building my foundation step by step.
 
